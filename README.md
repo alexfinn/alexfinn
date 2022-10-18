@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexfinn
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Food, sports, coffee, music, movies, tech and travel
 - 🌱 I’m currently learning ... Bash, Python, Swift
 - 💞️ I’m looking to collaborate on ... MacOS Solutions, JAMF and Kandji scripts
 - 📫 How to reach me ... Slack :) 
